@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lewishansel0406
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML, CSS and Java Script.
+- 🌱 I’m currently learning HTML, CSS, Java Script ReactJS, MongoDB, NodeJS, ExpressJS and Git.
 - 📫 How to reach me mail:lewis0406hansel@hotmail.com 
 
 <!---
